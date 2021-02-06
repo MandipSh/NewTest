@@ -8,7 +8,7 @@ Library  OperatingSystem
 MyFirstTest
     Log    Hello World...  
     Log    Welcome to Robot Framework. 
-    Log    Jenkins Trigger Test 2
+    Log    Jenkins Trigger Test 1
     Log    Email Test 1.
     Log  %{PATH} 
 
