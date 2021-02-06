@@ -9,7 +9,7 @@ MyFirstTest
     Log    Hello World...  
     Log    Welcome to Robot Framework. 
     Log    Jenkins Trigger Test 2
-    Log    Email Test 5.
+    Log    Email Test 1.
     Log  %{PATH} 
 
     
